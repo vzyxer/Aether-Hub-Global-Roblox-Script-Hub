@@ -2,6 +2,7 @@
 Supports Multiple Games | Join our discord to have early access to our scripts!
 ## Links 🔗
 Discord - https://discord.gg/uyM5Jd8knb
+
 Zyxer's Socials - https://guns.lol/zyxr
 
 ## Usage
